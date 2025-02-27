@@ -1,0 +1,5 @@
+in\srtechops\ServletInitializer.class
+in\srtechops\binding\Book.class
+in\srtechops\repository\BookRepository.class
+in\srtechops\Application.class
+in\srtechops\controller\BookController.class
